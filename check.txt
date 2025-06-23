@@ -1,0 +1,1 @@
+https://github.com/machadop1407/beautiful-react-tailwind-portfolio/blob/main/src/index.css
